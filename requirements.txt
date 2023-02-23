@@ -1,0 +1,8 @@
+bokeh
+dask
+datashader
+fastparquet
+holoviews
+hvplot
+python-snappy
+spatialpandas
